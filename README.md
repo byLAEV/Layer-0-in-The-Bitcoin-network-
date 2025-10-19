@@ -49,4 +49,5 @@ All collaborators acknowledge that Layer 0 aims to establish a sovereign and dec
 7. Acceptance
 By contributing to this repository, collaborators confirm understanding and acceptance of these terms and agree to act in alignment with the long-term objectives of Layer 0.
 
+@Cobra-Bitcoin
 
